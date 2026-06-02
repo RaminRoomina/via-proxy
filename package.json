@@ -1,0 +1,9 @@
+{
+  "name": "btc-stratum-proxy",
+  "version": "1.0.0",
+  "description": "Lightweight Stratum TCP Proxy",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  }
+}
